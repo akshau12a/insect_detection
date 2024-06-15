@@ -19,17 +19,21 @@ Software requirement is a field within Software Engineering that deals with esta
 ## Screenshots
 
 ### Main Interface
+
 ![Main Interface](![Capture12]_![image](https://github.com/akshau12a/insect_detection/assets/92288367/09eaff64-ad34-403c-ab82-b8a314aba96d)
 
 
 ### Image Uploading
+
 ![Insect Recognition Result](![21](https://github.com/akshau12a/insect_detection/assets/92288367/52979959-aece-4754-9c33-04e96c974581)
-)
 
 ### Maturity Stage Classification
+
 ![Maturity Stage Classification](![Capture8798](https://github.com/akshau12a/insect_detection/assets/92288367/89ee21d5-002e-4ff6-ae18-15af778793aa)
 
-## Use Case Diagram![Use Case Diagram](https://github.com/akshau12a/insect_detection/assets/92288367/8f78f4f7-6c43-4487-b765-b168d6d1a43a)
+## Use Case Diagram![Use Case Diagram]
+
+![Use Case Diagram](https://github.com/akshau12a/insect_detection/assets/92288367/b7c41e8f-177f-4eb1-aca9-facff3867732)
 
 
 ## How to Run the Project
