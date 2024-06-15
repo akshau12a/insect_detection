@@ -20,20 +20,26 @@ Software requirement is a field within Software Engineering that deals with esta
 
 ### Main Interface
 
-https://github.com/akshau12a/insect_detection/assets/92288367/09eaff64-ad34-403c-ab82-b8a314aba96d)
+![223](https://github.com/akshau12a/insect_detection/assets/92288367/777ae3b3-f18c-40ec-9584-dd60095f80dd)
+
 
 
 ### Image Uploading
 
-(https://github.com/akshau12a/insect_detection/assets/92288367/52979959-aece-4754-9c33-04e96c974581)
+![21](https://github.com/akshau12a/insect_detection/assets/92288367/e59b84ca-9a42-43e3-a3ae-9053015f05a4)
+
+![Capture2323](https://github.com/akshau12a/insect_detection/assets/92288367/bd9ab785-1385-48fa-bb40-cb4a6b6e2cc6)
+
 
 ### Maturity Stage Classification
 
-(https://github.com/akshau12a/insect_detection/assets/92288367/89ee21d5-002e-4ff6-ae18-15af778793aa)
+![Capture78](https://github.com/akshau12a/insect_detection/assets/92288367/2c95858b-ebc7-4d96-a571-bf244475dd29)
+
 
 ## Use Case Diagram![Use Case Diagram]
 
-(https://github.com/akshau12a/insect_detection/assets/92288367/b7c41e8f-177f-4eb1-aca9-facff3867732)
+![Use Case Diagram](https://github.com/akshau12a/insect_detection/assets/92288367/a9211079-6b9b-42ad-9d2b-6bbd924a4c03)
+
 
 
 ## How to Run the Project
