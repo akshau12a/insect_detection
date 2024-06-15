@@ -27,7 +27,6 @@ Software requirement is a field within Software Engineering that deals with esta
 ### Image Uploading
 
 ![21](https://github.com/akshau12a/insect_detection/assets/92288367/e59b84ca-9a42-43e3-a3ae-9053015f05a4)
-
 ![Capture2323](https://github.com/akshau12a/insect_detection/assets/92288367/bd9ab785-1385-48fa-bb40-cb4a6b6e2cc6)
 
 
