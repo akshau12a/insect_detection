@@ -25,7 +25,7 @@ Software requirement is a field within Software Engineering that deals with esta
 
 ### Image Uploading
 
-![Insect Recognition Result](![21](https://github.com/akshau12a/insect_detection/assets/92288367/52979959-aece-4754-9c33-04e96c974581)
+![Image uploading](![21](https://github.com/akshau12a/insect_detection/assets/92288367/52979959-aece-4754-9c33-04e96c974581)
 
 ### Maturity Stage Classification
 
